@@ -1,3 +1,3 @@
 # kokoa-clone
 
-beginner with VCS,CSS and GIt.
+beginner with VCS,CSS,Git and Github
